@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "app-map",
-    "slug": "app-map",
+    "name": "desarrolloappsfinalferraro",
+    "slug": "desarrolloappsfinalferraro",
     "version": "1.0.0",
     "platforms": [
       "ios",
@@ -16,7 +16,7 @@
     },
     "updates": {
       "fallbackToCacheTimeout": 0,
-      "url": "https://u.expo.dev/af325f62-9005-4c9b-98ea-33bdd82d9f5e"
+      "url": "https://u.expo.dev/2545a42a-cecd-447b-85a4-ba8906a74779"
     },
     "assetBundlePatterns": [
       "**/*"
@@ -44,7 +44,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "af325f62-9005-4c9b-98ea-33bdd82d9f5e"
+        "projectId": "2545a42a-cecd-447b-85a4-ba8906a74779"
       }
     },
     "owner": "camilaferraro",

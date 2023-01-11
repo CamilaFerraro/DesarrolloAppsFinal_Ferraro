@@ -1,7 +1,7 @@
 import React from "react";
-import PlaceNavigator from "./src/navigation/PlaceNavigator";
+import PlaceNavigator from "./navigation/PlaceNavigator"
 import { Provider } from "react-redux";
-import store from "./src/store";
+import store from "../DesarrolloApps_Ferraro/store"
 import { init } from "./db";
 
 init ()
